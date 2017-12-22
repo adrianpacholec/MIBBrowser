@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choices">
+        <item>Get Next</item>
+        <item>Get</item>
+        <item>Get Bulk</item>
+    </string-array>
+</resources>

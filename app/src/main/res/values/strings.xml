@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MIBBrowser</string>
+    <string name="go">Go</string>
+    <string name="textHint">OID</string>
+</resources>
